@@ -8,5 +8,6 @@ It was created purely from our internal online traffic data and intentionally ke
 
 # Datasets
 - Census: https://marketplace.databricks.com/details/72a9bf62-c0ab-4386-8f9f-63661eb263ca/John-Snow-Labs_Census-Data-by-Zip-Code-20122016
+- Cities: https://postalpro.usps.com/ZIP_Locale_Detail
 - Demand? https://www.kaggle.com/datasets/bigquery/google-analytics-sample
 - Demand? https://www.kaggle.com/datasets/otto/recsys-dataset
